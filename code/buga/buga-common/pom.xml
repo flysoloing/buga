@@ -13,6 +13,7 @@
     <groupId>com.flysoloing</groupId>
     <artifactId>buga-common</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <name>buga-common</name>
     <url>http://maven.apache.org</url>
