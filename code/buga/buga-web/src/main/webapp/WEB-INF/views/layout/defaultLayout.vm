@@ -1,0 +1,4 @@
+#parse("/common/header.vm")
+#parse("/common/navbar.vm")
+$screen_content
+#parse("/common/footer.vm")
