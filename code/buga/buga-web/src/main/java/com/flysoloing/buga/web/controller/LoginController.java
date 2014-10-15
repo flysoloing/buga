@@ -24,6 +24,7 @@ public class LoginController {
     public String login(Model model,HttpServletResponse response) throws IOException {
         logger.info("login page");
         model.addAttribute("message", "欢迎进入支付前端系统后台管理系统");
+		//test github
         return "index";
     }
 }
